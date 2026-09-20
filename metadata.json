@@ -1,0 +1,6 @@
+{
+  "name": "All Messenger",
+  "description": "All-in-one universal messaging hub combining Facebook Messenger, Twitter (X) DMs, Gmail, and Yahoo Mail with full inbox control and web connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
